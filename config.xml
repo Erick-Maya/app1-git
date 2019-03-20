@@ -34,6 +34,6 @@ Aplicacion que nos muestra la informacion referente al Dispositivo Movil
  
  <!--Colocar icono app-->
  
- <icon src="res/andorid/mdpi.png"/>
+ <icon src= "res/android/mdpi.png"/>
  
  </widget>
